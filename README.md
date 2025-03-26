@@ -5,7 +5,7 @@ It **fetches video details** (title, channel name, views, and resolution) before
 
  **Automatically selects the highest resolution available** (up to **4K**, if supported).  
  **Files are saved in the same folder as this script**.  
- **Just install `yt-dlp` and run!**  (
+ **Just install `yt-dlp` and run!**  
 
 ---
 
