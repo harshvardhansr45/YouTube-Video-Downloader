@@ -16,7 +16,7 @@ It **fetches video details** (title, channel name, views, and resolution) before
 
 ---
 
-## Installation
+## Dependencies
 
 First, install `yt-dlp` (if not installed):  
 
